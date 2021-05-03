@@ -1,0 +1,6 @@
+a = 3
+arr = range(9)
+
+for i in arr:
+    
+    print(a*(i+1))

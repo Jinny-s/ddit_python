@@ -1,0 +1,70 @@
+-- VERSION_5
+-- START DISKCACHE_3
+D:\workspace_python\.metadata\.plugins\org.eclipse.core.resources\.projects\HELLOPYTHON\com.python.pydev.analysis\v2_indexcache
+day02.exer05|1620013139057564300|D:\workspace_python\HELLOPYTHON\day02\exer05.py
+day02.exer04|1620013109090802700|D:\workspace_python\HELLOPYTHON\day02\exer04.py
+day02.myvar|1620001321501826200|D:\workspace_python\HELLOPYTHON\day02\myvar.py
+day02.mygawi|1620009542756927800|D:\workspace_python\HELLOPYTHON\day02\mygawi.py
+day02.myfor_gugu|1620006415955327100|D:\workspace_python\HELLOPYTHON\day02\myfor_gugu.py
+day02.exer01|1620012422373161300|D:\workspace_python\HELLOPYTHON\day02\exer01.py
+day02.exer03|1620012686180540000|D:\workspace_python\HELLOPYTHON\day02\exer03.py
+day02.exer02|1620012601570570800|D:\workspace_python\HELLOPYTHON\day02\exer02.py
+day02.myholl|1620008522840088200|D:\workspace_python\HELLOPYTHON\day02\myholl.py
+day02.myfor01|1620005247067103500|D:\workspace_python\HELLOPYTHON\day02\myfor01.py
+day02.myif02|1620004459257530200|D:\workspace_python\HELLOPYTHON\day02\myif02.py
+day02.myif01|1620004456110046000|D:\workspace_python\HELLOPYTHON\day02\myif01.py
+day01.hello|1619746303823561200|D:\workspace_python\HELLOPYTHON\day01\hello.py
+day02.myvar2|1620001608476833800|D:\workspace_python\HELLOPYTHON\day02\myvar2.py
+day02.myrandom|1620008421255067200|D:\workspace_python\HELLOPYTHON\day02\myrandom.py
+day02.myholl_sem|1620008682590865800|D:\workspace_python\HELLOPYTHON\day02\myholl_sem.py
+-- END DISKCACHE
+-- START DICTIONARY
+28
+6=day02.myvar
+2=day02.myholl
+23=D:\workspace_python\HELLOPYTHON\day02\myholl_sem.py
+5=D:\workspace_python\HELLOPYTHON\day02\myvar.py
+22=day02.myfor01
+28=day02.myif02
+10=day02.myif01
+17=D:\workspace_python\HELLOPYTHON\day02\exer04.py
+9=D:\workspace_python\HELLOPYTHON\day02\myif01.py
+3=D:\workspace_python\HELLOPYTHON\day02\exer02.py
+21=D:\workspace_python\HELLOPYTHON\day02\myfor01.py
+16=day02.exer05
+18=day02.exer04
+26=day02.mygawi
+8=day02.exer01
+20=day02.exer03
+4=day02.exer02
+1=D:\workspace_python\HELLOPYTHON\day02\myholl.py
+15=D:\workspace_python\HELLOPYTHON\day02\exer05.py
+13=D:\workspace_python\HELLOPYTHON\day02\myrandom.py
+11=D:\workspace_python\HELLOPYTHON\day02\myvar2.py
+12=day02.myvar2
+14=day02.myrandom
+25=D:\workspace_python\HELLOPYTHON\day02\mygawi.py
+27=D:\workspace_python\HELLOPYTHON\day02\myif02.py
+7=D:\workspace_python\HELLOPYTHON\day02\exer01.py
+19=D:\workspace_python\HELLOPYTHON\day02\exer03.py
+24=day02.myholl_sem
+-- END DICTIONARY
+-- START TREE 1
+13
+a|10|a!1^8#5*19@a!3^6#1*35@a!5^1#1*51@a!7^6#1*67@a!9^1#1*83@a!11^1#1*99@a!13^4#5*115@a!15^6#1*131@a!17^6#1*147@a!19^5#1*163@
+add|0|
+arr|2|arrb!21^2#1*179@arr!21^1#1*179@
+b|7|b!5^2#1*51@b!15^7#1*131@b!17^7#1*147@b!11^2#1*99@b!3^7#1*35@b!9^2#1*83@b!7^7#1*67@
+c|5|c!15^8#1*131@c!3^8#1*35@c!11^3#1*99@c!17^8#1*147@c!7^8#1*67@
+com|2|com!23^4#1*195@com!25^4#1*211@
+d|1|d!11^4#1*99@
+jum|1|jumsu!27^1#1*227@
+min|3|mine!25^3#1*211@mine!1^4#1*19@mine!23^3#1*195@
+r|1|r!1^2#1*19@
+ran|2|rand!23^7#1*195@rand!25^7#1*211@
+res|2|result!23^5#1*195@result!25^17#5*211@
+reu|1|reulst!25^5#1*211@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

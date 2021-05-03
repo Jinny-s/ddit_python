@@ -1,0 +1,11 @@
+import random
+
+r = random.randint(1, 100)
+if r%2 == 0:
+    print("짝")
+else:
+    print("홀")
+
+mine = input("홀/짝을 선택하세요")
+print(mine)
+
