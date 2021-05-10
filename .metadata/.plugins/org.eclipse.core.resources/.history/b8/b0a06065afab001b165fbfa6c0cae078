@@ -1,6 +1,0 @@
-a = 3
-arr = range(9)
-
-for i in arr:
-    print("3 * i")
-    print(a*(i+1))

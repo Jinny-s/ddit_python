@@ -19,7 +19,6 @@ class MyWindow(QMainWindow, form_class):
         
         for i in range(1, 10):
             b = a * i
-            print(a)
             result += str(a) + "*" + str(i) + "=" + str(b) + "\n"
         
         self.te.setText(result)
