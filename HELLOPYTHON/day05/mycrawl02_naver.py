@@ -1,5 +1,3 @@
-import os
-import sys
 import urllib.request
 
 from bs4 import BeautifulSoup
@@ -24,7 +22,7 @@ if(rescode==200):
     items = soup.select("item")
     for i, item in enumerate(items):
         print(item.title.text)
-        print()
+        print(item.link.text)
         print(item.description.text)
         print()
         print()
