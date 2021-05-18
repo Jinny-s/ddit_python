@@ -26,6 +26,7 @@ class DaoEmp:
     def myupdate(self, e_name, birth, e_id):
         curs = self.conn.cursor()
         sql = "update emp set e_name='{}', birth='{}' where e_id='{}'".format(e_name, birth, e_id)
+        # f"UPDATE emp SET e_name = '{e_name}', birth = '{birth}', where e_id='{e_id}'"
         cnt = curs.execute(sql)
         self.conn.commit()
         return cnt
